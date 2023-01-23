@@ -35,6 +35,6 @@
 ### ANDROID ui
 <p float="center">
 
-<img src="https://user-images.githubusercontent.com/118950801/213981777-ea57ed48-bf56-492e-ba9a-20493f0b4093.png"width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/118955280/211778842-77e18976-2d9b-4cf9-ab48-8a288c4703fd.png"width=22% height=35%>
  <img src="https://user-images.githubusercontent.com/118950801/213981930-21d3ec91-87bc-4945-b688-95cabf4865ef.png"width=22% height=35%>
 </p>
