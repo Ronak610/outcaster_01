@@ -1,4 +1,4 @@
-### ANDROID SETTINGS
+### ANDROID ui
 <p float="center">
 
 <img src="https://user-images.githubusercontent.com/118950801/213980305-c9b1bd7a-b9f1-4ecd-aa3d-480e94cf2be1.png" width=22% height=35%>
