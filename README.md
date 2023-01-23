@@ -12,18 +12,13 @@
 </p>
 
 
-### ANDROID SETTINGS
+### ANDROID APPS STORE
 <p float="center">
 <img src="https://user-images.githubusercontent.com/118950801/213981094-38e7fa19-97d8-4545-a7ac-915223b64222.png"height=35% width=22%>
  <img src="https://user-images.githubusercontent.com/118950801/213981196-9da20953-b8fa-4f2d-96ec-18ac940c5ee3.png"width=22% height=35%>
   <img src="https://user-images.githubusercontent.com/118950801/213981252-9304878f-76ad-4ee5-bd65-b8cb6d7212c6.png"width=22% height=35%>
   <img src="https://user-images.githubusercontent.com/118950801/213981369-53f68a2b-d89e-4dcb-abee-3ee52796f401.png"width=22% height=35%>
-
-
 </p>
-
-
-
 
 
 ### IOS APPS STORE
@@ -34,5 +29,13 @@
 <img src="https://user-images.githubusercontent.com/118955280/211778549-c637c512-a4a9-456c-a092-0aa22d284ca7.png" width=22% height=35%>
 <img src="https://user-images.githubusercontent.com/118955280/211778559-30bc7e69-786e-4286-bb06-169a7f6d3403.png" width=22% height=35%>
 <img src="https://user-images.githubusercontent.com/118955280/211778842-77e18976-2d9b-4cf9-ab48-8a288c4703fd.png" width=22% height=35%>
+</p>
+
+
+### ANDROID ui
+<p float="center">
+
+<img src="https://user-images.githubusercontent.com/118950801/213981777-ea57ed48-bf56-492e-ba9a-20493f0b4093.png"width=22% height=35%>
+ <img src="https://user-images.githubusercontent.com/118950801/213981930-21d3ec91-87bc-4945-b688-95cabf4865ef.png"width=22% height=35%>
 
 </p>
