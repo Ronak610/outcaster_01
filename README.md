@@ -1,8 +1,11 @@
-### First Page Android App
-<p float = "center">
-<img src="https://user-images.githubusercontent.com/118950801/213979550-ac3421ac-d016-4842-b336-7199d50980de.png
-"width=22%height=35%>
+### ANDROID SETTINGS
+<p float="center">
+
+<img src="https://user-images.githubusercontent.com/118955280/211776763-143861b1-7305-4266-95a9-4d412d238eae.png" width=22% height=35%>
+
 </p>
+
+
 
 
 
