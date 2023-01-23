@@ -12,6 +12,17 @@
 </p>
 
 
+### ANDROID SETTINGS
+<p float="center">
+<img src="https://user-images.githubusercontent.com/118950801/213981094-38e7fa19-97d8-4545-a7ac-915223b64222.png"height=35% width=22%>
+ <img src="https://user-images.githubusercontent.com/118950801/213981196-9da20953-b8fa-4f2d-96ec-18ac940c5ee3.png"width=22% height=35%>
+  <img src="https://user-images.githubusercontent.com/118950801/213981252-9304878f-76ad-4ee5-bd65-b8cb6d7212c6.png"width=22% height=35%>
+  <img src="https://user-images.githubusercontent.com/118950801/213981369-53f68a2b-d89e-4dcb-abee-3ee52796f401.png"width=22% height=35%>
+
+
+</p>
+
+
 
 
 
