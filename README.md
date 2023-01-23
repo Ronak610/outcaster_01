@@ -5,6 +5,13 @@
 
 </p>
 
+### ANDROID SETTINGS
+<p float="center">
+
+<img src="" width=22% height=35%>
+
+</p>
+
 
 
 
