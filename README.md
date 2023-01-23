@@ -1,4 +1,4 @@
-### ANDROID ui
+### ANDROID FIRST PAGE
 <p float="center">
 
 <img src="https://user-images.githubusercontent.com/118950801/213980305-c9b1bd7a-b9f1-4ecd-aa3d-480e94cf2be1.png" width=22% height=35%>
@@ -32,7 +32,7 @@
 </p>
 
 
-### ANDROID ui
+### ANDROID  STEPPER
 <p float="center">
 
 <img src="https://user-images.githubusercontent.com/118950801/213982395-61618bcc-a2b8-4d4e-a802-efac3cdcd6fe.png" width=22% height=35%>
