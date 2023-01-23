@@ -1,7 +1,8 @@
 ### ANDROID SETTINGS
 <p float="center">
 
-<img src="https://user-images.githubusercontent.com/118955280/211776763-143861b1-7305-4266-95a9-4d412d238eae.png" width=22% height=35%>
+<img src="https://user-images.githubusercontent.com/118950801/213980161-60873432-dd01-4c50-8b70-969c2037cc4f.png
+" width=22% height=35%>
 
 </p>
 
